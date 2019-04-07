@@ -1,0 +1,15 @@
+name: "BitBucket Pull-Request Plugin"
+version: 0.1
+tag: 0.1
+image: codefreshplugins/bitbucket-pr
+description: Open and Annotate BitBucket PullRequests
+maintainers:
+- name: Ant Weiss
+  email: ant.weiss@codefresh.io
+sources:
+  - https://github.com/codefresh-contrib/bitbucket-pr
+icon: icon.jpg
+envs:
+  - name: MY_VAR
+    type: required
+    description: placeholder
