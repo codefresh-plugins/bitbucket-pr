@@ -4,7 +4,7 @@ tag: "0.1"
 version: "0.1"
 description: Open and Annotate BitBucket PullRequests
 categories:
-- Git
+- git
 sources:
 - https://github.com/codefresh-contrib/bitbucket-pr
 maintainers:
